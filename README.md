@@ -10,7 +10,6 @@
 
 <div align="left">
   <h3>💰 Formas de contribuir:</h3>
-  <p>・Doando <a href="">Aqui</a> para ajudar a manter o projeto;</p>
   <p>・Corrigindo bugs do código;</p>
   <p>・Melhorando o código fonte para melhor desempenho.</p>
 </div></br>
