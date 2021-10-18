@@ -9,7 +9,7 @@
 </div></br>
 
 <div align="left">
-  <h3>💰 Formas de contribuir:</h3>
+  <h3>📄 Formas de contribuir:</h3>
   <p>・Corrigindo bugs do código;</p>
   <p>・Melhorando o código fonte para melhor desempenho.</p>
 </div></br>
